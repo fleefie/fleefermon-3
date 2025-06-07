@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if [ "$#" -ne 2 ]; then
+    echo "Usage: $0 [modrinth/curseforge] <mod>"
+    exit 1
+fi
+
+launcher="$1"
+mod="$2"
+
+packwiz $1 add $mod && \
+git add * **/** && \
+git commit -m "Mod: $mod"
