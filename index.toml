@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
-file = "add_mod"
-hash = "5744e17d0e52dc18c6f4181a17eae3fc749647e7795d0ddeb6c4034fd1f7d9b0"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
