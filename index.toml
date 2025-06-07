@@ -15,6 +15,11 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -72,6 +77,31 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "c20d5829bd3005c16da7b40495524223178f5f204cdc5ca05cb40c3246aec95d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "a4f2d610c81a2696b9a4a2ef9c569ec2caf1dd615c78fd70f73f91ad3a849c2a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "8ee145365be521b53878ecfa8f50ece4bb826106b22c595167f31cfc18e314bd"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "38d1ce888e383fb1bd1d3648d0ee26b643a697d3ac91e7fdb144cad3f9f55748"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "a0861e228ee5620c0ed0a2615db8732e1e29b3e4da0575528e892bd3d63fb698"
 metafile = true
 
 [[files]]
