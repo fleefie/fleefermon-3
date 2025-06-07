@@ -15,6 +15,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "aea076babc174c6690752d32df6b5fcb73acac6163b5cf184e219c5fa1f6d2b6"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
 metafile = true
