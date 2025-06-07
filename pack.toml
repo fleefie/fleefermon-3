@@ -1,0 +1,13 @@
+name = "Fleefermon 3"
+author = "Fleefie"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "90489d220b8e1b072d34aeb39194ae15768f751221a7fe6101953693232e2237"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.176"
