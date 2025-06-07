@@ -30,6 +30,11 @@ hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "9709fcd0b100ec7848e853efc0c9f4452537c2de2665e09ad8e7fb94b8fe4b8e"
 metafile = true
