@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ $# -ne "1" ]; then
+    return 1
+fi
+
+packwiz modrinth install ${1}
+git add * **/**
+git commit -m "Mod: ${1}"
+
