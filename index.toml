@@ -25,6 +25,16 @@ hash = "192bb668699b48b266804cc221c36b96440a531d15c7306e6de086643d62d8d4"
 metafile = true
 
 [[files]]
+file = "config/openloader/packs/cobbletowns-continued.pw.toml"
+hash = "8fdd96f0b0706a1ac558e4be56c1b6b0e6442de3d68254d81c0d07fb79902ac3"
+metafile = true
+
+[[files]]
+file = "config/openloader/packs/rct-trainer-textures-plus.pw.toml"
+hash = "a36136d40fd0b26b5d535b7b724a067fe3de37062e85fed5ffc14e8d584522d3"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a34cb55f2a55e2a4e47d6954948387105c14f0d0f2e800d003e1e7ec19c2904f"
 metafile = true
@@ -275,6 +285,11 @@ hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
+file = "mods/surveystones.pw.toml"
+hash = "a195d1cb6b5643cf1514b637169a2e779201e09d8fd9dc5da3bd78c53c8176ec"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
 metafile = true
@@ -282,9 +297,4 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "892cf7902f5d3795a1a3d576e4cc24d51654f29ac0d39215e5e3adf262778562"
-metafile = true
-
-[[files]]
-file = "config/openloader/packs/rct-trainer-textures-plus.pw.toml"
-hash = "a36136d40fd0b26b5d535b7b724a067fe3de37062e85fed5ffc14e8d584522d3"
 metafile = true
