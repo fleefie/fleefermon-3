@@ -50,6 +50,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "config/openloader/packs/cobblemon-additions.pw.toml"
+hash = "c31d3776a2361f758c32c1a2f4cbb654228c69045b7496daf10631e2221ed2f0"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "6b3fdd230197be5398fb4bdd973855730d57e306a11cd202d631219934fbdc4b"
 metafile = true
