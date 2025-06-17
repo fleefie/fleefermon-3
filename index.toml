@@ -135,6 +135,11 @@ hash = "a0861e228ee5620c0ed0a2615db8732e1e29b3e4da0575528e892bd3d63fb698"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "c34ad41e351235b1ca8e026e9fba9b3ee01c42e4933b060f0c870aac3014403a"
 metafile = true
@@ -207,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
 metafile = true
 
 [[files]]
