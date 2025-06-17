@@ -10,6 +10,16 @@ hash = "192bb668699b48b266804cc221c36b96440a531d15c7306e6de086643d62d8d4"
 metafile = true
 
 [[files]]
+file = "config/openloader/data/cobblemon-additions.pw.toml"
+hash = "c31d3776a2361f758c32c1a2f4cbb654228c69045b7496daf10631e2221ed2f0"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/rct-badges-cobblemonpokemonbadges.pw.toml"
+hash = "860c49bdd3c673c8e0756a30bbb087470db55295b757772c6bac5bec713465f2"
+metafile = true
+
+[[files]]
 file = "config/openloader/packs/allthemons-x-mega-showdown.pw.toml"
 hash = "192bb668699b48b266804cc221c36b96440a531d15c7306e6de086643d62d8d4"
 metafile = true
@@ -50,11 +60,6 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
-file = "config/openloader/packs/cobblemon-additions.pw.toml"
-hash = "c31d3776a2361f758c32c1a2f4cbb654228c69045b7496daf10631e2221ed2f0"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "6b3fdd230197be5398fb4bdd973855730d57e306a11cd202d631219934fbdc4b"
 metafile = true
@@ -67,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "aea076babc174c6690752d32df6b5fcb73acac6163b5cf184e219c5fa1f6d2b6"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokemon-badges.pw.toml"
+hash = "1f2cd45c3decc1215fca84fb3df356d017f17dbd130f18704fea55772a140adf"
 metafile = true
 
 [[files]]
@@ -220,6 +230,16 @@ hash = "5a355cacb43c599215f300c590829e86a7177ed5d62f3589918e2201532b1d41"
 metafile = true
 
 [[files]]
+file = "mods/rctapi.pw.toml"
+hash = "34dda281093febfd2b8ec154d7dcfc143a4b1c67377cff3a14caa344fc590d90"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "10fc19784667b857ceea2bff302b6fc6d6601590f404b782dd9582f8e14515b0"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
@@ -262,4 +282,9 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "892cf7902f5d3795a1a3d576e4cc24d51654f29ac0d39215e5e3adf262778562"
+metafile = true
+
+[[files]]
+file = "config/openloader/packs/rct-trainer-textures-plus.pw.toml"
+hash = "a36136d40fd0b26b5d535b7b724a067fe3de37062e85fed5ffc14e8d584522d3"
 metafile = true
